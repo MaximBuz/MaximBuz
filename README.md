@@ -1,4 +1,4 @@
-Experience in JavaScript (React, Next), Python (Django, Django REST), PostgreSQL, Firebase
+Experience in JavaScript (jQuery, React, Next), Python (Pandas, Django, Django REST), PostgreSQL, Firebase
 📫 How to reach me https://www.linkedin.com/in/maxim-buz-17a2a717b/
 
 <!---
