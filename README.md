@@ -28,11 +28,6 @@ Drop me a line on <a href="https://www.linkedin.com/in/maxim-buz-17a2a717b/">Lin
 ### Design  🎨
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </a>
 <a href="https://www.adobe.com/de/creativecloud.html" target="_blank"> <img src="https://img.shields.io/badge/Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud"/> </a>
-<br>
-  
-## Activity
-![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=MaximBuz&custom_title=My%20Contributions&theme=minimal&hide_border=true)
-
 
 <!---
 MaximBuz/MaximBuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
