@@ -1,9 +1,16 @@
 # Servus from Germany! 👋🏽🇩🇪
-My name is Maxim, I have a Bachelors in Finance, but my true passion lies in tech and startups.
+My name is Maxim, I am a recent finance major graduate, but my true passion lies in tech and startups. This realisation made me change my career path to now become a self-thought full-stack developer. To sharpen my skills and make myself attractive for employers, I am currently attending the <a href="https://codeworks.me/software-engineering-bootcamp/">Codeworks Software Engineering Bootcamp</a> in Berlin.
 <br>
-I'm a self-thought full-stack developer, about to join the <a href="https://codeworks.me/software-engineering-bootcamp/">Codeworks Software Engineering Bootcamp</a> in Berlin.
-
 Drop me a line on <a href="https://www.linkedin.com/in/maxim-buz-17a2a717b/">LinkedIn</a>!
+
+# My strongest skills...
+...lie within the JavaScript ecosystem, which I am focussing on during my studies at the Codeworks Software Engineering Bootcamp. I also have some academic and professional experience working with Python and frameworks like Django and Pandas.
+
+# What I am looking for...
+...as a bootcamp attendee is a junior entry-level role as a software developer in the JavaScript ecosystem. I am definitely eager to learn new technologies and would love to combine my finance background with my new-found love for software development.
+
+# One fact (outside of work) about me...
+...is that I like to jump around outdoors, doing backflips and stuff. Oh, and my biggest love is my daily one hour long breakfast!
 
 ### Frontend  🖥
 <a href="https://js.org/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
