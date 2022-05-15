@@ -36,7 +36,8 @@ I like to jump around outdoors, doing backflips and stuff. Oh, and my biggest lo
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </a>
 <a href="https://www.adobe.com/de/creativecloud.html" target="_blank"> <img src="https://img.shields.io/badge/Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud"/> </a>
 
-<!---
-MaximBuz/MaximBuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://raw.githubusercontent.com/MaximBuz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MaximBuz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+ 
+ ![](https://raw.githubusercontent.com/MaximBuz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MaximBuz/github-stats/master/generated/languages.svg#gh-light-mode-only)
