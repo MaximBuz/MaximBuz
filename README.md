@@ -32,5 +32,3 @@ As a bootcamp attendee I am looking for a junior entry-level role as a software 
 ### Design  🎨
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </a>
 <a href="https://www.adobe.com/de/creativecloud.html" target="_blank"> <img src="https://img.shields.io/badge/Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud"/> </a>
- 
- ![](https://komarev.com/ghpvc/?username=MaximBuz)
