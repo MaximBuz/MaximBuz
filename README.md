@@ -1,14 +1,3 @@
-# Servus from Germany! 👋🏽🇩🇪
-My name is Maxim, I have a degree in finance, but my true passion lies in tech and startups. This realisation made me change my career path to now become a self-thought full-stack developer. To sharpen my skills and make myself attractive for employers, I am currently attending the <a href="https://codeworks.me/software-engineering-bootcamp/">Codeworks Software Engineering Bootcamp</a> in Berlin.
-<br>
-Drop me a line on <a href="https://www.linkedin.com/in/maxim-buz-17a2a717b/">LinkedIn</a>!
-
-### My strongest skills...
-My strengths lie within the JavaScript ecosystem, which I am focussing on during my studies at the Codeworks Software Engineering Bootcamp. I also have some academic and professional experience working with Python and frameworks like Django and Pandas. Oh, and I had a lot of businessy/financy jobs and even created creative music videos for a living. Weird, isn't it?
-
-### What I am looking for...
-As a bootcamp attendee I am looking for a junior entry-level role as a software developer in the JavaScript ecosystem. I am definitely eager to learn new technologies and would love to combine my finance background with my new-found love for software development.
-
 ### Frontend  🖥
 <a href="https://js.org/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/></a>
