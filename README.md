@@ -16,7 +16,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-002C66?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<!-- <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-002C66?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> -->
 <br>
 ### Design  🎨
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </a>
