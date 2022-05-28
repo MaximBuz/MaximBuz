@@ -16,8 +16,9 @@
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 <a href="https://graphql.org/" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-DD34A6?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/></a>
-
-
+<a href="[https://graphql.org/](https://www.prisma.io/)" target="_blank"> <img src="https://img.shields.io/badge/PRIsma-273141?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/></a>
+<br>
+### Collaboration  🤝
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <br>
