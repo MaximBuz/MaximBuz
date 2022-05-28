@@ -11,12 +11,11 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
-
 <br>
 ### Data  🛠
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-<a href="https://graphql.org/" target="_blank"> <img src="(https://img.shields.io/badge/GraphQL-DD34A6?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/></a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-DD34A6?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/></a>
 
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
