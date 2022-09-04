@@ -4,13 +4,13 @@
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/></a>
  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/vue-31A06F?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/></a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://img.shields.io/badge/nuxt-31A06F?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Vue.js"/></a>
+<a href="https://nuxtjs.org/" target="_blank"> <img src="https://img.shields.io/badge/nuxt-00DC81?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/></a>
 <br>
 ### Backend
 <a href="[https://nodejs.org/en/](https://nodejs.org/en/)" target="_blank"> <img src="https://img.shields.io/badge/Node-76B062?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/> </a>
 <a href="[https://jupyter.org/](https://expressjs.com/de/)" target="_blank"> <img src="https://img.shields.io/badge/Express-EEEEEE?style=for-the-badge&logo=express&logoColor=black" alt="Express"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="https://graphql.org/" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-DD34A6?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/></a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
 <br>
