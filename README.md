@@ -6,6 +6,7 @@
 <a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/vue-31A06F?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/></a>
 <a href="https://nuxtjs.org/" target="_blank"> <img src="https://img.shields.io/badge/nuxt-00DC81?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/></a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind.css"/></a>
+<a href="https://storybook.js.org/" target="_blank"> <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/></a>
 <br>
 ### Backend
 <a href="[https://nodejs.org/en/](https://nodejs.org/en/)" target="_blank"> <img src="https://img.shields.io/badge/Node-76B062?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/> </a>
@@ -23,6 +24,11 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <br>
-### Design
+### Cloud
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
+<br>
+### Other
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </a>
 <a href="https://www.adobe.com/de/creativecloud.html" target="_blank"> <img src="https://img.shields.io/badge/Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud"/> </a>
+<a href="https://stripe.com/en-gb-de" target="_blank"> <img src="https://img.shields.io/badge/stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/> </a>
