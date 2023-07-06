@@ -5,6 +5,7 @@
  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/vue-31A06F?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/></a>
 <a href="https://nuxtjs.org/" target="_blank"> <img src="https://img.shields.io/badge/nuxt-00DC81?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/></a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind.css"/></a>
 <br>
 ### Backend
 <a href="[https://nodejs.org/en/](https://nodejs.org/en/)" target="_blank"> <img src="https://img.shields.io/badge/Node-76B062?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/> </a>
