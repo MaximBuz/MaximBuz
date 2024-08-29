@@ -1,11 +1,11 @@
-### Frontend
+### Language
 <a href="https://www.typescriptlang.org/" target="blank"> <img src="https://img.shields.io/badge/Typescript-2F73BF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-<a href="https://reactjs.org/" target="blank"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/></a>
-<a href="https://nextjs.org/" target="blank"> <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
+<a href="https://nodejs.org/en/" target="blank"> <img src="https://img.shields.io/badge/Node-76B062?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/></a>
 <br>
 
-### Backend
-<a href="https://nodejs.org/en/" target="blank"> <img src="https://img.shields.io/badge/Node-76B062?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/></a>
+### Frontend
+<a href="https://reactjs.org/" target="blank"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/></a>
+<a href="https://nextjs.org/" target="blank"> <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
 <br>
 
 ### Data
