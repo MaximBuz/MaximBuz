@@ -8,6 +8,12 @@
 <a href="https://nextjs.org/" target="blank"> <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
 <br>
 
+### Cloud
+<a href="https://aws.amazon.com/" target="blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Web Services"/></a>
+<a href="https://cloud.google.com/" target="blank"> <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/></a>
+<a href="https://www.docker.com/" target="blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<br>
+
 ### Data
 <a href="https://aws.amazon.com/dynamodb/" target="blank"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/></a>
 <a href="https://www.postgresql.org/" target="blank"> <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
@@ -16,12 +22,6 @@
 ### Collaboration
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<br>
-
-### Cloud
-<a href="https://aws.amazon.com/" target="blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Web Services"/></a>
-<a href="https://cloud.google.com/" target="blank"> <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/></a>
-<a href="https://www.docker.com/" target="blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
 <br>
 
 ### Other
